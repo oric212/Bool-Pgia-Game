@@ -40,9 +40,6 @@ To quit the game, click the X button.
 
 
 
-<img width="595" height="513" alt="Screenshot_9" src="https://github.com/user-attachments/assets/f9c9b92f-dfeb-4db9-b963-fb948a1daa89" />
-
-
 # Miscellaneous 
 
 This project helped me understand how to devalop winform based apps

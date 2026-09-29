@@ -1,0 +1,19 @@
+# Visual Studio workspace and user settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET build output
+bin/
+obj/
+Debug/
+Release/
+*.pdb
+*.cache
+
+# Temporary files
+*.tmp
+*.temp
+*~
